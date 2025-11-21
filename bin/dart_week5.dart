@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:dart_week5/function_call.dart';
 
 void maid(){
